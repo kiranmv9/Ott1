@@ -32,6 +32,8 @@ const Home = () => {
 
     return ( 
         <div className="home">   
+        
+        <h1>hi how are you</h1>
 
         {pending==true  &&  <h1>Loading.......</h1>}
 
