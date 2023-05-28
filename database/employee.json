@@ -1,0 +1,12 @@
+{
+    "employees":[
+        {
+            "empid":"1",
+            "employeename":"kiran",
+            "empdesignation":"ied",
+            "department":"cutting",
+            "operation":"....",
+            "dateofjoin":"01/02/2020"
+        }
+    ]
+}

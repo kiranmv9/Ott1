@@ -1,0 +1,29 @@
+{
+    "employees":
+    [
+        {
+           "id":751966,
+           "name":"kiran",
+           "designation":"junior ececutive",
+           "qualification":"bTech"
+        },
+        {
+            "id":751986,
+           "name":"ranveer",
+           "designation":"junior 2 ececutive",
+           "qualification":"bTech"
+        },
+        {
+            "id":751976,
+            "name":"kishan",
+            "designation":"junior 3 ececutive",
+            "qualification":"bTech"
+         },
+         {
+            "id":751996,
+            "name":"chandan",
+            "designation":"junior 4 ececutive",
+            "qualification":"bTech"
+         }
+]
+}
